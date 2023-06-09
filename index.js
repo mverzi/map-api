@@ -31,6 +31,7 @@ let ponies = {
         'imgUrl': 'https://static.wikia.nocookie.net/mlp/images/d/d1/Rarity_standing_S1E19_CROPPED.png/revision/latest/scale-to-width-down/225?cb=20130418142043',
     },
     'pinkie pie': {
+        'name': 'Pinkie Pie',
         'type': 'Earth Pony',
         'residence': 'Ponyville',
         'imgUrl': 'https://static.wikia.nocookie.net/mlp/images/b/b2/Pinkie_Pie_ID_S4E11.png/revision/latest/scale-to-width-down/225?cb=20190410214815',
@@ -47,6 +48,7 @@ let ponies = {
         'residence': 'unknown'
     }
     // 'name': {
+    //     'name': ,   
     //     'type': ,
     //     'residence': ,
     //     'imgUrl': ,
